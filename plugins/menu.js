@@ -66,7 +66,7 @@ async (conn, mek, m, { from, quoted, body, isCmd, command, args, q, isGroup, sen
 
         // Send audio
         await conn.sendMessage(from, {
-            audio: { url: 'https://github.com/isithaanusara/Matrix-data/blob/main/autovoice/menunew.m4a' },
+            audio: { url: 'https://files.catbox.moe/ic72c8.mp3' },
             mimetype: 'audio/mp4',
             ptt: true
         }, { quoted: mek });
