@@ -26,8 +26,6 @@ async (conn, mek, m, { from, quoted, body, isCmd, command, args, q, isGroup, sen
 ╰━━━━━━━━━━━━━━━┈⊷
 ╭━━〔 *Menu List* 〕━━┈⊷
 ┃◈╭─────────────·๏
-┃◈┃• Quranmenu
-┃◈┃• Prayertime
 ┃◈┃• Aimenu
 ┃◈┃• Anmiemenu
 ┃◈┃• Convertmenu
@@ -48,15 +46,15 @@ async (conn, mek, m, { from, quoted, body, isCmd, command, args, q, isGroup, sen
         await conn.sendMessage(
             from,
             {
-                image: { url: `https://i.ibb.co/1tc4hQQB/255.jpg` },
+                image: { url: `https://i.ibb.co/S4bM1GZr/6942.jpg` },
                 caption: dec,
                 contextInfo: {
                     mentionedJid: [m.sender],
                     forwardingScore: 999,
                     isForwarded: true,
                     forwardedNewsletterMessageInfo: {
-                        newsletterJid: '120363354023106228@newsletter',
-                        newsletterName: 'cryptoknight',
+                        newsletterJid: '120363369843420196@g.us',
+                        newsletterName: '𝐂𝐑𝐘𝐏𝐓𝐎 𝐊𝐍𝐈𝐆𝐇𝐓',
                         serverMessageId: 143
                     }
                 }
@@ -139,15 +137,15 @@ async (conn, mek, m, { from, quoted, body, isCmd, command, args, q, isGroup, sen
         await conn.sendMessage(
             from,
             {
-                image: { url: `https://i.ibb.co/1tc4hQQB/255.jpg` },
+                image: { url: `https://i.ibb.co/S4bM1GZr/6942.jpg` },
                 caption: dec,
                 contextInfo: {
                     mentionedJid: [m.sender],
                     forwardingScore: 999,
                     isForwarded: true,
                     forwardedNewsletterMessageInfo: {
-                        newsletterJid: '120363354023106228@newsletter',
-                        newsletterName: 'cryptoknight',
+                        newsletterJid: '120363369843420196@g.us',
+                        newsletterName: '𝐂𝐑𝐘𝐏𝐓𝐎 𝐊𝐍𝐈𝐆𝐇𝐓',
                         serverMessageId: 143
                     }
                 }
@@ -217,15 +215,15 @@ async (conn, mek, m, { from, quoted, body, isCmd, command, args, q, isGroup, sen
         await conn.sendMessage(
             from,
             {
-                image: { url: `https://i.ibb.co/1tc4hQQB/255.jpg` },
+                image: { url: `https://i.ibb.co/S4bM1GZr/6942.jpg` },
                 caption: dec,
                 contextInfo: {
                     mentionedJid: [m.sender],
                     forwardingScore: 999,
                     isForwarded: true,
                     forwardedNewsletterMessageInfo: {
-                        newsletterJid: '120363354023106228@newsletter',
-                        newsletterName: 'cryptoknight',
+                        newsletterJid: '120363369843420196@g.us',
+                        newsletterName: '𝐂𝐑𝐘𝐏𝐓𝐎 𝐊𝐍𝐈𝐆𝐇𝐓',
                         serverMessageId: 143
                     }
                 }
@@ -284,15 +282,15 @@ async (conn, mek, m, { from, quoted, body, isCmd, command, args, q, isGroup, sen
         await conn.sendMessage(
             from,
             {
-                image: { url: `https://i.ibb.co/1tc4hQQB/255.jpg` },
+                image: { url: `https://i.ibb.co/S4bM1GZr/6942.jpg` },
                 caption: dec,
                 contextInfo: {
                     mentionedJid: [m.sender],
                     forwardingScore: 999,
                     isForwarded: true,
                     forwardedNewsletterMessageInfo: {
-                        newsletterJid: '120363354023106228@newsletter',
-                        newsletterName: 'cryptoknight',
+                        newsletterJid: '120363369843420196@g.us',
+                        newsletterName: '𝐂𝐑𝐘𝐏𝐓𝐎 𝐊𝐍𝐈𝐆𝐇𝐓',
                         serverMessageId: 143
                     }
                 }
@@ -355,15 +353,15 @@ async (conn, mek, m, { from, quoted, body, isCmd, command, args, q, isGroup, sen
         await conn.sendMessage(
             from,
             {
-                image: { url: `https://i.ibb.co/1tc4hQQB/255.jpg` },
+                image: { url: `https://i.ibb.co/S4bM1GZr/6942.jpg` },
                 caption: dec,
                 contextInfo: {
                     mentionedJid: [m.sender],
                     forwardingScore: 999,
                     isForwarded: true,
                     forwardedNewsletterMessageInfo: {
-                        newsletterJid: '120363354023106228@newsletter',
-                        newsletterName: 'cryptoknight',
+                        newsletterJid: '120363369843420196@g.us',
+                        newsletterName: '𝐂𝐑𝐘𝐏𝐓𝐎 𝐊𝐍𝐈𝐆𝐇𝐓',
                         serverMessageId: 143
                     }
                 }
@@ -407,15 +405,15 @@ async (conn, mek, m, { from, quoted, body, isCmd, command, args, q, isGroup, sen
         await conn.sendMessage(
             from,
             {
-                image: { url: `https://i.ibb.co/1tc4hQQB/255.jpg` },
+                image: { url: `https://i.ibb.co/S4bM1GZr/6942.jpg` },
                 caption: dec,
                 contextInfo: {
                     mentionedJid: [m.sender],
                     forwardingScore: 999,
                     isForwarded: true,
                     forwardedNewsletterMessageInfo: {
-                        newsletterJid: '120363354023106228@newsletter',
-                        newsletterName: 'cryptoknight',
+                        newsletterJid: '120363369843420196@g.us',
+                        newsletterName: '𝐂𝐑𝐘𝐏𝐓𝐎 𝐊𝐍𝐈𝐆𝐇𝐓',
                         serverMessageId: 143
                     }
                 }
@@ -473,8 +471,8 @@ async (conn, mek, m, { from, quoted, body, isCmd, command, args, q, isGroup, sen
                     forwardingScore: 999,
                     isForwarded: true,
                     forwardedNewsletterMessageInfo: {
-                        newsletterJid: '120363354023106228@newsletter',
-                        newsletterName: 'cryptoknight',
+                        newsletterJid: '120363369843420196@g.us',
+                        newsletterName: '𝐂𝐑𝐘𝐏𝐓𝐎 𝐊𝐍𝐈𝐆𝐇𝐓',
                         serverMessageId: 143
                     }
                 }
@@ -534,8 +532,8 @@ async (conn, mek, m, { from, quoted, body, isCmd, command, args, q, isGroup, sen
                     forwardingScore: 999,
                     isForwarded: true,
                     forwardedNewsletterMessageInfo: {
-                        newsletterJid: '120363354023106228@newsletter',
-                        newsletterName: 'cryptoknight',
+                        newsletterJid: '120363369843420196@g.us',
+                        newsletterName: '𝐂𝐑𝐘𝐏𝐓𝐎 𝐊𝐍𝐈𝐆𝐇𝐓',
                         serverMessageId: 143
                     }
                 }
@@ -603,8 +601,8 @@ async (conn, mek, m, { from, quoted, body, isCmd, command, args, q, isGroup, sen
                     forwardingScore: 999,
                     isForwarded: true,
                     forwardedNewsletterMessageInfo: {
-                        newsletterJid: '120363354023106228@newsletter',
-                        newsletterName: 'cryptoknight',
+                        newsletterJid: '120363369843420196@g.us',
+                        newsletterName: '𝐂𝐑𝐘𝐏𝐓𝐎 𝐊𝐍𝐈𝐆𝐇𝐓',
                         serverMessageId: 143
                     }
                 }
@@ -662,8 +660,8 @@ async (conn, mek, m, { from, quoted, body, isCmd, command, args, q, isGroup, sen
                     forwardingScore: 999,
                     isForwarded: true,
                     forwardedNewsletterMessageInfo: {
-                        newsletterJid: '120363354023106228@newsletter',
-                        newsletterName: 'cryptoknight',
+                        newsletterJid: '120363369843420196@g.us',
+                        newsletterName: '𝐂𝐑𝐘𝐏𝐓𝐎 𝐊𝐍𝐈𝐆𝐇𝐓',
                         serverMessageId: 143
                     }
                 }
